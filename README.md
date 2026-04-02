@@ -52,20 +52,7 @@ Chart library (if used, mention here)
 📱 Responsiveness
 Fully responsive layout
 Works on desktop, tablet, and mobile devices
-⚙️ Setup Instructions
 
-Clone the repository:
-
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-Open the project folder
-Run using Live Server or open index.html in browser
-📂 Project Structure
-/project-root
-│── index.html
-│── style.css
-│── script.js
-│── data/
-│── assets/
 🎯 Design Approach
 Focused on clean and minimal UI
 Used card-based layout for clarity
